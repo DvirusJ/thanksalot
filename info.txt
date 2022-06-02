@@ -1,7 +1,7 @@
-first::Michael
-last::Anderson
-email::michael.anderson+
-domain::gmail.com
-password::MyPassword
-phone::0821234567
+first::Denver
+last::Julies
+email::dvirus.julies+
+domain::yahoo.com
+password::D@virus1379
+phone::0769812218
 General_letter::True
